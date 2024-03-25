@@ -10,7 +10,7 @@
 Run:
 
 ```
-npm insall
+npm install
 ```
 
 
