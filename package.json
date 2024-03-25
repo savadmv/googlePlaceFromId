@@ -1,0 +1,15 @@
+{
+  "name": "google-place-autocomplete-cloud-function",
+  "version": "1.0.0",
+  "description": "A Google Cloud Function to provide place predictions using Google Places Autocomplete API",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "node-fetch": "^3.0.0",
+    "zlib": "^1.0.5"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
